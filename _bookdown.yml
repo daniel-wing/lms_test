@@ -1,0 +1,15 @@
+book_filename: "premier_LMS"
+language:
+  ui:
+    chapter_name: "Step "
+delete_merged_file: true
+output:
+  bookdown::html_book:
+    css: toc.css
+    highlight: tango
+  config:
+    toc:
+      collapse: full
+      scroll_highlight: yes
+      before: null
+      after: null

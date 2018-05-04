@@ -1,0 +1,18 @@
+--- 
+title: "Premier Destination Services"
+#author: "Knowladge Base"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is the Learning Managment System of Premier Destination Services."
+---
+
+# Welcome!
+
+Welcome words from host (probably Sean) written and a very short video. In my account I only have CDMX's metro so I post that video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nc8dsRev3w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
