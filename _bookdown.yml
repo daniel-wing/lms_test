@@ -3,13 +3,13 @@ language:
   ui:
     chapter_name: ""
 delete_merged_file: true
-output:
-  bookdown::html_book:
-    css: toc.css
-    highlight: tango
-  config:
-    toc:
-      collapse: section
-      scroll_highlight: yes
-      before: null
-      after: null
+#output:
+#  bookdown::html_book:
+#    css: toc.css
+#    highlight: tango
+#  config:
+#    toc:
+#      collapse: section
+#      scroll_highlight: yes
+#      before: null
+#      after: null
