@@ -1,5 +1,5 @@
 --- 
-title: "Premier Destination Services"
+#title: "Premier Destination Services"
 #author: "Knowladge Base"
 #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -15,4 +15,23 @@ description: "This is the Learning Managment System of Premier Destination Servi
 
 Welcome words from host (probably Sean) written and a very short video. In my account I only have CDMX's metro so I post that video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4nc8dsRev3w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oUEbMjtWc-A?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Industry and what we do
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor feugiat molestie. Integer consectetur odio vel arcu tristique sagittis. Integer vitae vehicula lorem. Cras congue odio eget enim viverra, ac hendrerit diam sagittis. Suspendisse tincidunt gravida nulla a finibus. Integer venenatis commodo massa eu tincidunt. Sed sodales condimentum ligula et laoreet. Aenean sit amet congue eros. Vivamus mattis libero ut consectetur venenatis. Duis sollicitudin faucibus aliquet. Nam feugiat auctor nisl, vitae porta arcu faucibus vel. Pellentesque vel dapibus sapien, nec ultrices quam.
+
+Vivamus et blandit arcu, at varius felis. Fusce at erat a erat consequat eleifend quis vel nisi. In hac habitasse platea dictumst. Curabitur semper est vitae lacinia suscipit. Cras volutpat lacus ac convallis tempus. Sed a nulla turpis. In suscipit ornare ex pulvinar dignissim. Pellentesque aliquam leo arcu, a faucibus nibh fringilla ut. Phasellus urna orci, hendrerit dignissim metus non, sagittis elementum eros. Maecenas lobortis velit at nunc tristique sagittis. Aenean ultrices elit placerat dolor blandit, et auctor nunc commodo. Mauris metus lacus, tincidunt eget odio dignissim, gravida pharetra libero. Donec aliquam vulputate blandit. Curabitur sit amet ipsum vel purus efficitur efficitur. 
+
+## Company History
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor feugiat molestie. Integer consectetur odio vel arcu tristique sagittis. Integer vitae vehicula lorem. Cras congue odio eget enim viverra, ac hendrerit diam sagittis. Suspendisse tincidunt gravida nulla a finibus. Integer venenatis commodo massa eu tincidunt. Sed sodales condimentum ligula et laoreet. Aenean sit amet congue eros. Vivamus mattis libero ut consectetur venenatis. Duis sollicitudin faucibus aliquet. Nam feugiat auctor nisl, vitae porta arcu faucibus vel. Pellentesque vel dapibus sapien, nec ultrices quam.
+
+Vivamus et blandit arcu, at varius felis. Fusce at erat a erat consequat eleifend quis vel nisi. In hac habitasse platea dictumst. Curabitur semper est vitae lacinia suscipit. Cras volutpat lacus ac convallis tempus. Sed a nulla turpis. In suscipit ornare ex pulvinar dignissim. Pellentesque aliquam leo arcu, a faucibus nibh fringilla ut. Phasellus urna orci, hendrerit dignissim metus non, sagittis elementum eros. Maecenas lobortis velit at nunc tristique sagittis. Aenean ultrices elit placerat dolor blandit, et auctor nunc commodo. Mauris metus lacus, tincidunt eget odio dignissim, gravida pharetra libero. Donec aliquam vulputate blandit. Curabitur sit amet ipsum vel purus efficitur efficitur. 
+
+## Mission & Vision 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor feugiat molestie. Integer consectetur odio vel arcu tristique sagittis. Integer vitae vehicula lorem. Cras congue odio eget enim viverra, ac hendrerit diam sagittis. Suspendisse tincidunt gravida nulla a finibus. Integer venenatis commodo massa eu tincidunt. Sed sodales condimentum ligula et laoreet. Aenean sit amet congue eros. Vivamus mattis libero ut consectetur venenatis. Duis sollicitudin faucibus aliquet. Nam feugiat auctor nisl, vitae porta arcu faucibus vel. Pellentesque vel dapibus sapien, nec ultrices quam.
+
+Vivamus et blandit arcu, at varius felis. Fusce at erat a erat consequat eleifend quis vel nisi. In hac habitasse platea dictumst. Curabitur semper est vitae lacinia suscipit. Cras volutpat lacus ac convallis tempus. Sed a nulla turpis. In suscipit ornare ex pulvinar dignissim. Pellentesque aliquam leo arcu, a faucibus nibh fringilla ut. Phasellus urna orci, hendrerit dignissim metus non, sagittis elementum eros. Maecenas lobortis velit at nunc tristique sagittis. Aenean ultrices elit placerat dolor blandit, et auctor nunc commodo. Mauris metus lacus, tincidunt eget odio dignissim, gravida pharetra libero. Donec aliquam vulputate blandit. Curabitur sit amet ipsum vel purus efficitur efficitur. 
+
